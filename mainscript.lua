@@ -35,7 +35,7 @@ local Window = Rayfield:CreateWindow({
       Invite = "dsc.gg/d4AZD9gCas",
       RememberJoins = true
    },
-   KeySystem = True, -- Set this to true to enable key system
+   KeySystem = false, -- Set this to true to enable key system
    KeySettings = {
       Title = "DEATHSAKEN-SYSTEM",
       Subtitle = "Key System",
