@@ -35,7 +35,7 @@ local Window = Rayfield:CreateWindow({
       Invite = "dsc.gg/d4AZD9gCas",
       RememberJoins = true
    },
-   KeySystem = True, -- Set this to true to enable key system
+   KeySystem = true, -- Set this to true to enable key system
    KeySettings = {
       Title = "DEATHSAKEN-SYSTEM",
       Subtitle = "Key System",
@@ -4402,7 +4402,7 @@ toggleEmoteGuiButton.Size = UDim2.new(0, 60, 0, 60)
 toggleEmoteGuiButton.Position = UDim2.new(0.05, 340, 0.05, -47.5)
 toggleEmoteGuiButton.AnchorPoint = Vector2.new(0.5, 0.5)
 toggleEmoteGuiButton.BackgroundTransparency = 1
-toggleEmoteGuiButton.Image = "rbxassetid://73335752800725"
+toggleEmoteGuiButton.Image = "rbxassetid://124732025141750"
 toggleEmoteGuiButton.ZIndex = 999999
 toggleEmoteGuiButton.Parent = emoteGuiToggle
 
