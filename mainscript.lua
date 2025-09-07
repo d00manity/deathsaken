@@ -17,7 +17,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "DEATHSAKEN",
-   Icon = 119855670079790,
+   Icon = 72365192884174,
    LoadingTitle = "Loading DEATHSAKEN...",
    LoadingSubtitle = "by D00M4N1TY (skid, ts is open source)",
    ShowText = "DEATHSAKEN",
